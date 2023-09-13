@@ -142,6 +142,7 @@ input {
 }
 
 button {
+  margin-top: 20px;
   margin: 10px;
   background-color: #007bff;
   color: white;
