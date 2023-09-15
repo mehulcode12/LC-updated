@@ -156,3 +156,9 @@ h1{
 #submit{
   margin-left: 200px;
 }
+footer {
+  text-align: center;
+  padding: 5px;
+  background-color: white;
+  font-weight: 500;
+}
