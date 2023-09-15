@@ -160,12 +160,21 @@ h1{
 .h1 {
   
 }
-.main {
-  padding-top: 90px;
-  text-align: center;
-}
+
 
 button{
   margin: 10px;
   font-size: medium;
+}
+
+.main {
+  padding-top: 90px;
+  text-align: center;
+  height: 28rem;
+}
+footer {
+  text-align: center;
+  padding: 5px;
+  background-color: white;
+  font-weight: 500;
 }
